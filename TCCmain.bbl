@@ -1,0 +1,11 @@
+\begin{thebibliography}{1}
+
+\bibitem{referencia1}
+Autor da~referência 1.
+\newblock Título da referência 1, 2007.
+
+\bibitem{referencia2}
+Google.
+\newblock \url{http://www.google.com.br/}, Acesso em: 04 de dezembro de 2014.
+
+\end{thebibliography}

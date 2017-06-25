@@ -1,0 +1,1775 @@
+#LyX file created by tex2lyx 2.2
+\lyxformat 508
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin C:/Users/Yuri/Desktop/Nova pasta/TCCtex-2017/TCCtex-2017/Content/
+\textclass report
+\options openright
+\use_default_options false
+\maintain_unincluded_children false
+\language brazilian
+\language_package default
+\inputencoding iso8859-1
+\fontencoding T1
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 11
+\spacing single
+\use_hyperref true
+\pdf_bookmarks 1
+\pdf_bookmarksnumbered 0
+\pdf_bookmarksopen 0
+\pdf_bookmarksopenlevel 1
+\pdf_breaklinks 0
+\pdf_pdfborder 0
+\pdf_colorlinks 0
+\pdf_backref section
+\pdf_pdfusetitle 0
+\pdf_quoted_options "pdftex,% mostra a barra de bookmarks
+pdftitle={O titulo do seu Trabalho},% titulo
+pdfauthor={Evandro L. L. Rodrigues},% autor
+pdfsubject={TCC},% subject of the document
+pdfkeywords={Sistemas Embarcados, ARM, Linux Embarcado},% keywords
+colorlinks=true,linkcolor=black,citecolor=black,urlcolor=blue"
+\papersize a4paper
+\use_geometry true
+\use_package amsmath 2
+\use_package amssymb 2
+\use_package cancel 0
+\use_package esint 1
+\use_package mathdots 0
+\use_package mathtools 0
+\use_package mhchem 0
+\use_package stackrel 0
+\use_package stmaryrd 0
+\use_package undertilde 0
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle fancy
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+
+\lang brazilian
+Cuidados e orientações para a elaboração de texto
+\end_layout
+
+\begin_layout Standard
+
+\lang brazilian
+
+\begin_inset CommandInset label
+LatexCommand label
+name "Apêndice Apêndice A"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\lang brazilian
+
+\series bold
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+color{blue}
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+{
+\end_layout
+
+\end_inset
+
+Dicas para a redação de uma boa monografia de TCC
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+}
+\end_layout
+
+\end_inset
+
+
+\series default
+ 
+\end_layout
+
+\begin_layout Standard
+
+\lang brazilian
+Observe as diretrizes no site do Depto. 
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\lang brazilian
+
+\begin_inset CommandInset href
+LatexCommand href
+target "http://143.107.182.35/sel/files_EE/tcc_-_diretrizes_EESC_v_2010.pdf"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang brazilian
+Veja no Portal de Livros Abertos da USP as mais novas versões das Diretrizes para apresentação de dissertações e teses da USP. 
+\end_layout
+
+\begin_layout Itemize
+
+\lang brazilian
+Parte I (ABNT) - 
+\begin_inset CommandInset href
+LatexCommand href
+target "http://dx.doi.org/10.11606/9788573140606"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+
+\lang brazilian
+Parte II (APA) - 
+\begin_inset CommandInset href
+LatexCommand href
+target "http://dx.doi.org/10.11606/9788573140576"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+
+\lang brazilian
+Parte III (ISO) - 
+\begin_inset CommandInset href
+LatexCommand href
+target "http://dx.doi.org/10.11606/9788573140590"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+
+\lang brazilian
+Parte IV (Vancouver) - 
+\begin_inset CommandInset href
+LatexCommand href
+target "http://dx.doi.org/10.11606/9788573140569"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang brazilian
+Observe os elementos pré-textuais neste documento....tem uma sequência a ser seguida (Capa, contracapa, Ficha catalográfica para a versão final, Listas de Figuras, Tabelas e Símbolos/Abreviaturas).
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang brazilian
+
+\series bold
+Resumo/abstract
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+ Texto em 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+underline{
+\backslash
+textbf{um}}
+\end_layout
+
+\end_inset
+
+ parágrafo apenas. Deve conter 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+underline{tudo}
+\end_layout
+
+\end_inset
+
+ resumidamente (introdução, método(s), resultados e conclusões), de tal forma que seja possível compreender a proposta e o que foi alcançado;
+\begin_inset Newline newline
+\end_inset
+
+ Palavras-chave: Logo abaixo do Resumo/Abstract.
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang brazilian
+
+\series bold
+Capítulo 1
+\series default
+ - Introdução
+\begin_inset Newline newline
+\end_inset
+
+ Realmente introduz o leitor indicando quais são as direções do trabalho ? Apresenta o tema e o objeto do trabalho e contém as Referências do Estado da arte (quem está fazendo e em que nível os trabalhos da área estão hoje)?
+\begin_inset Newline newline
+\end_inset
+
+ - Justificativa/relevância do trabalho: explanação sobre porque o trabalho se justifica e quais os pontos de relevância do mesmo;
+\begin_inset Newline newline
+\end_inset
+
+ - Objetivo(s): 
+\series bold
+"
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+underline{somente}
+\end_layout
+
+\end_inset
+
+"
+\series default
+ o(s) objetivo(s) em uma frase. Também podem ser descritos na forma de "gerais" 
+\begin_inset space \space{}
+
+\end_inset
+
+e/ou "específicos";
+\begin_inset Newline newline
+\end_inset
+
+ - Organização do trabalho (o que tem em cada capítulo).
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang brazilian
+Não há necessidade de reproduzir (copiar) as obras que embasam o trabalho e sim colocar o suficiente para o entendimento do trabalho e citar as referências;
+\end_layout
+
+\begin_layout Standard
+
+\lang brazilian
+
+\series bold
+Capítulo 2
+\series default
+ - Embasamento Teórico ou Fundamentação Teórica
+\begin_inset Newline newline
+\end_inset
+
+ Revisão da literatura dos tópicos que sustentam a ciência e o conhecimento, relativos ao(s) objetivo(s) e o(s) método(s) escolhido(s) para o desenvolvimento do trabalho;
+\end_layout
+
+\begin_layout Standard
+
+\lang brazilian
+
+\series bold
+Capítulo 3
+\series default
+ - Material e Métodos ou Desenvolvimento do Projeto
+\begin_inset Newline newline
+\end_inset
+
+ Descrição clara dos procedimentos e do material adotados para o desenvolvimento do trabalho (
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+underline{sem resultados}
+\end_layout
+
+\end_inset
+
+), incluindo sua adequação ao trabalho.
+\begin_inset Newline newline
+\end_inset
+
+ Tem que responder às perguntas:
+\begin_inset Newline newline
+\end_inset
+
+ - Está com tamanho adequado (proporcional) à monografia? 
+\begin_inset Newline newline
+\end_inset
+
+ - Há informação suficiente e clara sobre os materiais e sobre os métodos adotados?
+\begin_inset Newline newline
+\end_inset
+
+ Não há necessidade de reproduzir (copiar) as obras que embasam o trabalho e sim colocar o suficiente para o entendimento do trabalho e citar as referências.
+\end_layout
+
+\begin_layout Standard
+
+\lang brazilian
+
+\series bold
+Capítulo 4
+\series default
+ - Resultados/Discussões
+\begin_inset Newline newline
+\end_inset
+
+ Aqui se mostra o que o trabalho permitiu produzir, e às vezes o que pode ser comparado com outros trabalhos - aqui ficam claras se as propostas do trabalho são relevantes ou não, pois devem permitir a discussão do trabalho.
+\end_layout
+
+\begin_layout Standard
+
+\lang brazilian
+Deve responder: Os resultados estão claros em bom número (nem muito nem pouco) que permitam avaliar realmente a proposta e o que foi produzido?
+\end_layout
+
+\begin_layout Standard
+
+\lang brazilian
+
+\series bold
+Capítulo 5
+\series default
+ - Conclusões
+\begin_inset Newline newline
+\end_inset
+
+ "Fecham" com os objetivos? (respondem aos objetivos?) - aqui é que "se vende o peixe" pois irão valorizar (ou não) o trabalho realizado. Normalmente é uma parte do trabalho "um pouco desprezada", pois o autor já está "cansado....". Mas aqui é um ponto importante de medida se o trabalho tem ou não valor.
+\end_layout
+
+\begin_layout Standard
+
+\lang brazilian
+
+\series bold
+Referências
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+ Deve conter todas as referências 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+{
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+color{red}
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+{
+\end_layout
+
+\end_inset
+
+citadas no texto
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+}
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+}
+\end_layout
+
+\end_inset
+
+. Observar as Diretrizes, pois lá estão os formatos corretos de citação.
+\end_layout
+
+\begin_layout Standard
+
+\lang brazilian
+
+\series bold
+Apêndices
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+ Todo o material produzido pelo autor durante o trabalho, que o mesmo julga importante disponibilizar, mas que não deve estar no corpo do trabalho, pois atrapalharia a leitura do mesmo.
+\end_layout
+
+\begin_layout Standard
+
+\lang brazilian
+
+\series bold
+Anexos
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+ Todo o material que não é de autoria própria, mas que é importante para completar as informações do corpo do texto (ex. datasheet).
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\lang brazilian
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+underline{Outras observações 
+\backslash
+textbf{IMPORTANTES} (
+\backslash
+color{red}{leia isso com atenção})}
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+
+\lang brazilian
+NUNCA copie texto de outro autor sem a devida forma de citação (ver em diretrizes); a cópia configura plágio! Com a Internet e/ou outras ferramentas dedicadas, é muito fácil identificar se houve cópia de texto. Se você quiser verificar a porcentagem que seu texto apresenta de similaridade com outros na internet, baixe e rode o Copy Spider, por exemplo, ou consulte outros em http://www.escritacientifica.sc.usp.br/anti-plagio/. 
+\end_layout
+
+\begin_layout Itemize
+
+\lang brazilian
+
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
+
+\begin_inset Formula $\Rightarrow$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+O tempo verbal a ser usado no texto, de forma geral, é o "PASSADO", pois o trabalho já aconteceu; 
+\end_layout
+
+\begin_layout Itemize
+
+\lang brazilian
+
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
+
+\begin_inset Formula $\Rightarrow$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+no texto, toda primeira vez que aparecer algum protocolo, procedimento, nome técnico, sigla, abreviatura, etc, além de explicar o que é, é necessário citar a referência. Exemplo: ...um giroscópio (referência) é um tipo de sensor... 
+\end_layout
+
+\begin_layout Itemize
+
+\lang brazilian
+
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
+
+\begin_inset Formula $\Rightarrow$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+figura que não é de sua autoria deve conter a fonte; 
+\end_layout
+
+\begin_layout Itemize
+
+\lang brazilian
+
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
+
+\begin_inset Formula $\Rightarrow$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+capriche nas figuras (uma figura bem composta quase não precisa de texto para explicá-la); 
+\end_layout
+
+\begin_layout Itemize
+
+\lang brazilian
+
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
+
+\begin_inset Formula $\Rightarrow$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+todas as figuras e tabelas devem ser referenciadas no texto; 
+\end_layout
+
+\begin_layout Itemize
+
+\lang brazilian
+
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
+
+\begin_inset Formula $\Rightarrow$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+procure manter a "
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+underline{Uniformidade de Notação}
+\end_layout
+
+\end_inset
+
+" para o texto todo, ou seja, se denominou ou se referiu a algo ou alguém de uma certa forma, mantenha essa forma para se referir durante todo o texto; 
+\end_layout
+
+\begin_layout Itemize
+
+\lang brazilian
+
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
+
+\begin_inset Formula $\Rightarrow$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+não tenha medo de citar os trabalhos de outros autores (isso é imprescindível); 
+\end_layout
+
+\begin_layout Itemize
+
+\lang brazilian
+
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
+
+\begin_inset Formula $\Rightarrow$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+evite "muitas" referências de sites, pois são voláteis - procure boas referências nas bases consagradas como a IEEE (http://ieeexplore.ieee.org/Xplore/home.jsp), pois possuem artigos de ótimo nível; 
+\end_layout
+
+\begin_layout Itemize
+
+\lang brazilian
+
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
+
+\begin_inset Formula $\Rightarrow$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+{
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+color{red}
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+{
+\end_layout
+
+\end_inset
+
+NÃO USE O WIKIPEDIA COMO REFERÊNCIA
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+}
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+}
+\end_layout
+
+\end_inset
+
+; 
+\end_layout
+
+\begin_layout Itemize
+
+\lang brazilian
+
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
+
+\begin_inset Formula $\Rightarrow$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+todas as palavras escritas em inglês (ou em outras línguas) devem estar em itálico; 
+\end_layout
+
+\begin_layout Itemize
+
+\lang brazilian
+
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
+
+\begin_inset Formula $\Rightarrow$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+cuidado com o uso de "através", que significa "atravessar" algo e não por meio de ; 
+\end_layout
+
+\begin_layout Itemize
+
+\lang brazilian
+
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
+
+\begin_inset Formula $\Rightarrow$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+todas as obras citadas nas referências devem estar citadas no texto; 
+\end_layout
+
+\begin_layout Itemize
+
+\lang brazilian
+
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
+
+\begin_inset Formula $\Rightarrow$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+evite o uso de "satisfatório", "razoável" ou outra palavra que não seja precisa ou que não tenha sido definida a ordem de grandeza no texto; 
+\end_layout
+
+\begin_layout Itemize
+
+\lang brazilian
+
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
+
+\begin_inset Formula $\Rightarrow$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+códigos de programas devem estar em Apêndices, pois servem para comprovar o desenvolvimento e facilitar a reprodução do trabalho; 
+\end_layout
+
+\begin_layout Itemize
+
+\lang brazilian
+
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
+
+\begin_inset Formula $\Rightarrow$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Anexos são informações que não são de sua autoria, mas que são importantes e que devem fazer parte da monografia para auxiliar e esclarecer o leitor. 
+\end_layout
+
+\begin_layout Standard
+
+\lang brazilian
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+% % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % %
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
+
+\lang brazilian
+Apresentação do TCC
+\end_layout
+
+\begin_layout Standard
+
+\lang brazilian
+
+\begin_inset CommandInset label
+LatexCommand label
+name "Apêndice  Apêndice B"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\lang brazilian
+
+\series bold
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+color{blue}
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+{
+\end_layout
+
+\end_inset
+
+Cuidados e orientações para a elaboração da Apresentação do TCC
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+}
+\end_layout
+
+\end_inset
+
+
+\series default
+ 
+\end_layout
+
+\begin_layout Standard
+
+\lang brazilian
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+{
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+color{red}
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+{
+\end_layout
+
+\end_inset
+
+Todos os meus alunos me enviam a apresentação previamente, pois faz parte do procedimento que adoto para os TCCs.
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+}
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+}
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+ Como tem-se até 30 minutos para fazer a apresentação deve-se dimensionar a quantidade de slides para isso. Cada um tem seu "timming" com relação à quantidade de informação versus tempo disponível para apresentação. Os slides devem ser sempre muito mais visuais que textuais, ou seja, não se deve colocar frases e "ficar lendo" as mesmas. Os slides devem apresentar uma forma "clean" para que sirvam apenas de guia para a apresentação do trabalho.
+\end_layout
+
+\begin_layout Standard
+
+\lang brazilian
+Leia no site da Elétrica (/Graduação/Trabalhos de Conclusão de Curso - TCC) as DIRETRIZES GERAIS PARA ELABORAÇÃO DO TRABALHO DE FORMATURA - TCC, onde pode-se encontrar as Fichas de Avaliação que são sugeridas pelo Depto, que não são necessariamente seguidas à risca pelos avaliadores, mas que servem de bom guia para os alunos entenderem como são feitas as avaliações. Tente não utilizar fundo escuro, pois escurece o ambiente e às vezes não se consegue o visual esperado. Sempre que possível teste antes no local da apresentação. 
+\begin_inset Newline newline
+\end_inset
+
+ Resumindo: 
+\end_layout
+
+\begin_layout Itemize
+
+\lang brazilian
+
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
+
+\begin_inset Formula $\Rightarrow$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Prepare o seu ambiente de apresentação - mesa, cadeiras, etc., colocadas de maneira a não te atrapalhar; 
+\end_layout
+
+\begin_layout Itemize
+
+\lang brazilian
+
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
+
+\begin_inset Formula $\Rightarrow$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Teste as cores que o projetor realmente projeta para que a visualização seja próxima daquela construída nos slides; 
+\end_layout
+
+\begin_layout Itemize
+
+\lang brazilian
+
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
+
+\begin_inset Formula $\Rightarrow$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Evite usar fundo escuro; 
+\end_layout
+
+\begin_layout Itemize
+
+\lang brazilian
+
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
+
+\begin_inset Formula $\Rightarrow$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+A apresentação deve dedicar o maior tempo para o trabalho em si, suas propostas, seus resultados/discussões e conclusões; 
+\end_layout
+
+\begin_layout Itemize
+
+\lang brazilian
+
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
+
+\begin_inset Formula $\Rightarrow$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Coloque um Sumário resumido da apresentação e não do trabalho todo; 
+\end_layout
+
+\begin_layout Itemize
+
+\lang brazilian
+
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
+
+\begin_inset Formula $\Rightarrow$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Descarregue os slides de textos excessivos - os slides devem servir de guia para a apresentação e suporte visual para o público; 
+\end_layout
+
+\begin_layout Itemize
+
+\lang brazilian
+
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
+
+\begin_inset Formula $\Rightarrow$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Slides com numeração - facilita o controle e a identificação do conteúdo; 
+\end_layout
+
+\begin_layout Itemize
+
+\lang brazilian
+
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
+
+\begin_inset Formula $\Rightarrow$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Frases longas dificultam a apresentação pois induz o público à leitura e não à apresentação do palestrante; 
+\end_layout
+
+\begin_layout Itemize
+
+\lang brazilian
+
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
+
+\begin_inset Formula $\Rightarrow$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Sua apresentação deve "caber" dentro de 15 a 30 minutos; 
+\end_layout
+
+\begin_layout Itemize
+
+\lang brazilian
+
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
+
+\begin_inset Formula $\Rightarrow$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Não colocamos slides sobre Referências na apresentação, a menos que alguma(s) publicação(ões) seja(m) muito importante(s) a ponto de merecer destaque na apresentação; 
+\end_layout
+
+\begin_layout Itemize
+
+\lang brazilian
+
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
+
+\begin_inset Formula $\Rightarrow$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+O último slide deve conter 
+\series bold
+"
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+underline{OBRIGADO}
+\end_layout
+
+\end_inset
+
+"
+\series default
+ e não "Perguntas". 
+\end_layout
+
+\begin_layout Itemize
+
+\lang brazilian
+
+\begin_inset Argument item:1
+status open
+
+\begin_layout Plain Layout
+
+\begin_inset Formula $\Rightarrow$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+Como sou o orientador, eu serei o condutor de todo o ritual da defesa.
+\end_layout
+
+\begin_layout Standard
+
+\lang brazilian
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+% % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % %
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
+
+\lang brazilian
+Monografia Parcial do TCC
+\end_layout
+
+\begin_layout Standard
+
+\lang brazilian
+
+\begin_inset CommandInset label
+LatexCommand label
+name "Apêndice  Apêndice C"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\lang brazilian
+
+\series bold
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+color{blue}
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+{
+\end_layout
+
+\end_inset
+
+Cuidados e orientações para a composição da Monografia Parcial do TCC
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+}
+\end_layout
+
+\end_inset
+
+
+\series default
+ 
+\end_layout
+
+\begin_layout Standard
+
+\lang brazilian
+Trata-se de uma Monografia completa, com todas as partes de uma Monografia final.
+\end_layout
+
+\begin_layout Standard
+
+\lang brazilian
+Atente-se para as partes em 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+{
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+color{red}
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+{
+\end_layout
+
+\end_inset
+
+vermelho
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+}
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+}
+\end_layout
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Itemize
+
+\lang brazilian
+Resumo 
+\end_layout
+
+\begin_layout Itemize
+
+\lang brazilian
+Introdução 
+\end_layout
+
+\begin_layout Itemize
+
+\lang brazilian
+Objetivos 
+\end_layout
+
+\begin_layout Itemize
+
+\lang brazilian
+Justificativas/Relevância 
+\end_layout
+
+\begin_layout Itemize
+
+\lang brazilian
+Embasamento Teórico (Fundamentação Teórica-Revisão Bibliográfica) 
+\end_layout
+
+\begin_layout Itemize
+
+\lang brazilian
+Material e métodos ou Desenvolvimento do Projeto 
+\end_layout
+
+\begin_layout Itemize
+
+\lang brazilian
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+{
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+color{red}
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+{
+\end_layout
+
+\end_inset
+
+Resultados Preliminares
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+}
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+}
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\lang brazilian
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+{
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+color{red}
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+{
+\end_layout
+
+\end_inset
+
+Conclusões Preliminares
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+}
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+}
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\lang brazilian
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+{
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+color{red}
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+{
+\end_layout
+
+\end_inset
+
+Sequência do trabalho (indicando possíveis correções de rota do projeto)
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+}
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+}
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\lang brazilian
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+{
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+color{red}
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+{
+\end_layout
+
+\end_inset
+
+Cronograma Final (com correções se necessário)
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+}
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+}
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\lang brazilian
+Referências 
+\end_layout
+
+\begin_layout Itemize
+
+\lang brazilian
+Apêndices 
+\end_layout
+
+\begin_layout Itemize
+
+\lang brazilian
+Anexos 
+\end_layout
+
+\begin_layout Standard
+
+\lang brazilian
+Sendo bem feito, irá poupar esforço para a redação da monografia.
+\end_layout
+
+\end_body
+\end_document
